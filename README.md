@@ -62,4 +62,8 @@ Deployed: https://ohiajanny.github.io/Furniture-Website--Project-1-/products.htm
 GitHub:  https://github.com/OhiaJanny/Furniture-Website--Project-1-
 
 
+MY SLIDE PRESENTATION.
+[Project Presentation.pdf](https://github.com/OhiaJanny/Furniture-Website--Project-1-/files/10770863/Project.Presentation.pdf)
+
+
 THANKS FOR READING.
