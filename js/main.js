@@ -89,7 +89,7 @@ const fetchAllProducts = async (location) => {
             allFeaturedProducts.innerHTML += `
             <div class="col-10 mx-auto col-md-6 col-lg-4">
             <div class="featured-container p-5">
-              <img src=${product.url} alt="" class="img-fluid">
+              <img src=${product.url} alt="" width="300" height="300">
               <a class="featured-store-link text-capitalize" onclick="addToCart('${product.id}')">add to cart</a>
             </div>
             <h6 class="text-capitalize text-center my-2">
