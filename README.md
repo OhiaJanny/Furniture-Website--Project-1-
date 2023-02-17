@@ -23,13 +23,17 @@ As a user, I want to be able to know the types of furniture available in my loca
 As a user I want to be able to subscribe to the newsletter to keep track of new furniture arrival.
 
 
+
 PAPER WIREFRAMMING
+
+
 ![image](https://user-images.githubusercontent.com/92087695/219764208-0ab72c15-1fde-496d-910c-5ddaffd1ceaa.png)
 ![image](https://user-images.githubusercontent.com/92087695/219764284-e77ee3da-2b25-44a4-b0e4-afed9139d919.png)
 ![image](https://user-images.githubusercontent.com/92087695/219764340-f3e4c953-4d6f-4124-99ef-b526fca9cb88.png)
 
 
 LOW-FIDELITY WIREFRAME
+
 ![image](https://user-images.githubusercontent.com/92087695/219764498-fdd5065a-b052-4c35-8a1e-886b1c94707c.png)
 ![image](https://user-images.githubusercontent.com/92087695/219764565-76d7baa6-810d-4139-8785-82f2639ef39e.png)
 ![image](https://user-images.githubusercontent.com/92087695/219764640-83e91390-6ba4-4664-a1f7-ff9239d6bf38.png)
